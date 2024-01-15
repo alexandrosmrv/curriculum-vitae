@@ -2,7 +2,7 @@
 /* SIDE MENU CSS */
 body{
   margin: 0;
-background: linear-gradient(#afb0e7,#4f74ee);
+background: linear-gradient(#9394e2,#3b65ee);
 font-family: 'Montserrat', sans-serif;
 color: #fff;
 margin-bottom: 5px;
@@ -76,7 +76,7 @@ a:link{
 /* Animations  Header*/
 .ml11 {
   font-weight: 700;
-  font-size: 3.5em;
+  font-size: 3.8em;
   text-align: center;
 
   }
