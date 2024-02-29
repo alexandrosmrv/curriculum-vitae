@@ -59,6 +59,9 @@ a:link{
   background-color: transparent;
   text-decoration: none;
 }
+a:hover{
+  color:aquamarine
+}
 .mainMenu{
  display: inline-flex;
  flex-direction:column;
