@@ -73,6 +73,18 @@ a:hover{
   grid-template-columns: 10rem 1fr;
   
   }
+  /* IMAGE CSS */
+  .portofilioImg{
+    height: fit-content;
+    width: fit-content;
+    transition-delay: 0.2s;
+    padding-right: 0.4rem;
+  }
+  .portofilioImg:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px  #5f5fe0;
+    
+  }
 
   
 
