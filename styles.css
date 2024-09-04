@@ -29,7 +29,7 @@ footer{
   margin-top: 20px;
   width: fit-content;
   background-color:white;
-  height: 80vh;
+  height: 70vh;
   overflow: auto;
   display: flex;
   flex-direction: column;
@@ -76,7 +76,7 @@ a:hover{
 .mainMenu{
  display: inline-flex;
  flex-direction:column;
- margin: 2rem;
+ margin: 0.8rem;
  gap: 3.5rem;
 
 
